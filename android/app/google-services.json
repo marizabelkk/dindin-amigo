@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686879508489",
+    "project_id": "dindinamigo-c7c31",
+    "storage_bucket": "dindinamigo-c7c31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686879508489:android:d036206243899b274290d8",
+        "android_client_info": {
+          "package_name": "com.example.dindin_amigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtiMEiWlTrzx09RoS2gBW0MGavYUXAClg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
